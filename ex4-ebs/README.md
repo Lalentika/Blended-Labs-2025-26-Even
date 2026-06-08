@@ -1,8 +1,8 @@
 # Lab 4 – Working with Amazon Elastic Block Store (EBS)
 
 ## Author
-* **Name**: Sanjeev Kumar S
-* **Register Number**: 212224040290
+* **Name**: LALENTIKA TWISHA M
+* **Register Number**: 212224220052
 ---
 
 ## Objective
