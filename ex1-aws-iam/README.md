@@ -73,7 +73,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-- **Name:** Sanjeev Kumar S (212224040290)
+- **Name:** LALENTIKA TWISHA M (212224220052)
 - **Course:** 19AI541-TSIOT005 - Cloud Computing
  
 
