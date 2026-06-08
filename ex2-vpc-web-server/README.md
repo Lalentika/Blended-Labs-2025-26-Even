@@ -1,8 +1,8 @@
 # Build Your VPC and Launch a Web Server (AWS) 
 
 ## Author
-* **Name**: Sanjeev Kumar S
-* **Register Number**: 212224040290
+* **Name**: LALENTIKA TWISHA M
+* **Register Number**: 212224220052
 ---
 
 ## Objective
