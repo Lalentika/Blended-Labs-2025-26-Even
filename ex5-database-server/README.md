@@ -1,7 +1,7 @@
 # Lab 5 – Build a Database Server (AWS)
 
 ## Author
-* **Name**: Sanjeev Kumar S
+* **Name**:   LALENTIKA TWISHA M
 * **Register Number**: 212224220052
 ---
 
